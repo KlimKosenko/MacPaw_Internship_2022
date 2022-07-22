@@ -7,7 +7,7 @@ Back-End PHP Intern
 * Для завантаження проекту потрібно ввести команду в терміналі: 
 `git clone -b master https://github.com/KlimKosenko/MacPaw_Internship_2022.git`
 * Після завантаження, перейдіть в папку проекте та введіть команду в терміналі: `composer install`
-* Змініть файл `.env.example` на `.env`
+* Змініть назву файла `.env.example` на `.env`
 * Виконайте команду `php artisan key:generate`
 * Створіть базу даних
 * Налаштуйте файл `.env`
